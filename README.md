@@ -5,7 +5,7 @@ Um "memorando" dos conteúdos aprendidos no curso de Programação Web do projet
 27/02/2021 - Introdução do HTML e apresentação dos alunos;
 06/03/2021 - Introdução a estilização do site usando CSS;
 13/03/2021 - Ensinando aos alunos a criarem arquivos e hospedarem sites no GitHub;
-20/03/2021 - 
+20/03/2021 - Iniciação nas tags de organização de código: <div>, <span>, .class e #id
 27/03/2021 - 
 03/04/2021 - 
 10/04/2021 - 
