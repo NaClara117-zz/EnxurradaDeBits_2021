@@ -1,4 +1,4 @@
-h2
+brh2
 {
     color:#ffee05;
 }
@@ -9,4 +9,22 @@ p
 img
 {
     margin: 20px 15px;
+}
+.flexflex
+{
+    display: flex;
+}
+.centrao
+{
+    display: flex;
+    justify-content: center;
+}
+#video
+{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 700px;
+    height: 400px;
 }
